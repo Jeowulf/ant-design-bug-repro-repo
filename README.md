@@ -19,3 +19,5 @@ Open browser at http://localhost:3000/, it renders a header saying "Welcome to R
 
 Import antd#
 $ yarn add antd
+
+To see the bug
